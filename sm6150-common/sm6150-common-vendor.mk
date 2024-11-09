@@ -867,9 +867,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcssip-V1.0-java \
     vendor.qti.ims.rcsuce-V1.0-java \
     vendor.qti.latency-V2.0-java \
-    android.hardware.keymaster@4.1-service-default-qti.xml \
-    android.hardware.neuralnetworks@1.3-service-qti-hta.xml \
-    android.hardware.neuralnetworks@1.3-service-qti.xml \
-    manifest_android.hardware.drm@1.3-service.widevine.xml \
-    vendor.qti.gnss@4.0-service.xml \
-    vendor.qti.hardware.servicetracker@1.2-service.xml
+    android.hardware.keymaster@4.1-service-default-qti \
+    android.hardware.neuralnetworks@1.3-service-qti-hta \
+    android.hardware.neuralnetworks@1.3-service-qti \
+    manifest_android.hardware.drm@1.3-service.widevine \
+    vendor.qti.gnss@4.0-service \
+    vendor.qti.hardware.servicetracker@1.2-service
